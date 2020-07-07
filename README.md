@@ -1,4 +1,4 @@
-# Healthcare-Analytics
+# Breast Cancer Prediction
 
 In this projectt, i explored the breast cancer dataset and tried to train the model to predict if the person is having breast cancer or not.
 We will start off with a weak learner, a decision tree with maximum depth = 2.
